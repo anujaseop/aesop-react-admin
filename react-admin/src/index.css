@@ -1,0 +1,153 @@
+.table-image {
+  width: 75px;
+  height: 75px;
+  /* border: 2px solid white; */
+}
+.excel-color {
+  background-color: #008000 !important;
+  color: #fff !important;
+}
+.list-style {
+  width: 70px !important;
+}
+.file-info {
+  font-size: 11px;
+  color: #a7a7a7;
+  margin-top: 3px;
+}
+.update-banner {
+  width: 120px;
+}
+.update-image {
+  width: 150px;
+  height: auto;
+}
+.react-daterange-picker__wrapper {
+  border: 0 !important;
+}
+
+.tab-title a {
+  color: rgb(0, 0, 0) !important;
+}
+a.nav-color {
+  color: rgb(0, 0, 0) !important;
+}
+.label-list {
+  text-align: end;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-weight: 500;
+}
+.react-datepicker-popper {
+  z-index: 9999 !important;
+}
+.cutome-th {
+  border-bottom: 1px solid #c8ced3;
+  width: 12%;
+}
+
+.required {
+  color: red;
+}
+.student-list {
+  width: 200px !important;
+}
+.image-circle {
+  /* border-radius: 20%; */
+  width: 75px;
+  height: 75px;
+}
+/* .image-border {
+  border: 2px solid white;
+} */
+.list-width {
+  width: 70px !important;
+}
+/* .course-list {
+  width: 100% !important;
+} */
+.custome-table-th-td th {
+  width: 25% !important;
+}
+.custome-table-th-td td {
+  width: 75% !important;
+}
+.switch-label .switch-slider::before {
+  z-index: 0 !important;
+}
+.react-read-more-read-less {
+  color: #20a8d8;
+}
+.react-read-more-read-less-more {
+  color: #20a8d8;
+}
+.select-invalid {
+  border: 1px solid #f86c6b !important;
+  border-radius: 5px !important;
+}
+.was-validated .form-control:invalid,
+.form-control.is-invalid {
+  background-position: right calc(2px) center !important;
+}
+
+.custome-date-Range > .react-datepicker-wrapper {
+  width: 50% !important;
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  color: black !important;
+}
+
+.nav-tabs .nav-link {
+  color: black !important;
+}
+fieldset.scheduler-border {
+  border: 1px groove #ddd !important;
+  padding: 0 1.4em 1.4em 1.4em !important;
+  margin: 0 0 1.5em 0 !important;
+  -webkit-box-shadow: 0px 0px 0px 0px #000;
+  box-shadow: 0px 0px 0px 0px #000;
+}
+
+legend.scheduler-border {
+  font-size: 1.2em !important;
+  font-weight: bold !important;
+  text-align: left !important;
+  width: auto;
+  padding: 0 10px;
+  border-bottom: none;
+}
+
+/*****/
+.image-border {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.image-border img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image-banner {
+  width: 250px;
+  height: 100px;
+  overflow: hidden;
+}
+.image-banner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.website-link {
+  color: #137396 !important;
+}
+.table th,
+.table td {
+  border-top: 0 !important;
+}
+.readmore-box {
+  width: 35% !important;
+}
